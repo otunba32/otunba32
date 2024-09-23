@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-giphy.webp
+
 
 Software Engineer
 
